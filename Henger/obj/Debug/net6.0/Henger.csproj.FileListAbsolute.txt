@@ -1,0 +1,15 @@
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\Henger.csproj.AssemblyReference.cache
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\Henger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\Henger.AssemblyInfoInputs.cache
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\Henger.AssemblyInfo.cs
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\Henger.csproj.CoreCompileInputs.cache
+C:\Users\paloczi.imre\source\repos\Henger\Henger\bin\Debug\net6.0\Henger.exe
+C:\Users\paloczi.imre\source\repos\Henger\Henger\bin\Debug\net6.0\Henger.deps.json
+C:\Users\paloczi.imre\source\repos\Henger\Henger\bin\Debug\net6.0\Henger.runtimeconfig.json
+C:\Users\paloczi.imre\source\repos\Henger\Henger\bin\Debug\net6.0\Henger.dll
+C:\Users\paloczi.imre\source\repos\Henger\Henger\bin\Debug\net6.0\Henger.pdb
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\Henger.dll
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\refint\Henger.dll
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\Henger.pdb
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\Henger.genruntimeconfig.cache
+C:\Users\paloczi.imre\source\repos\Henger\Henger\obj\Debug\net6.0\ref\Henger.dll
